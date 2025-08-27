@@ -1,5 +1,5 @@
 // api.js — Configuración de APIs (base url + helper)
-export const BASE_URL = 'https://total-oeyx.onrender.com'; // cámbiala según ambiente
+export const BASE_URL = 'https://3000-firebase-2git-1756256501039.cluster-zhw3w37rxzgkutusbbhib6qhra.cloudworkstations.dev'; // cámbiala según ambiente
 
 /**
  * apiFetch — wrapper con:
