@@ -19,7 +19,11 @@
     "express": "^4.18.2",
     "express-fileupload": "^1.4.3",
     "morgan": "^1.10.0",
-    "nodemon": "^3.0.3"
+    "nodemon": "^3.0.3",
+    "lit": "^2.x.x",
+    "lit-html": "^2.x.x",
+    "@lit/reactive-element": "^1.x.x",
+    "lit-element": "^3.x.x"
   },
   "devDependencies": {
     "parcel": "^2.11.0"
