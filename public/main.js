@@ -1,6 +1,6 @@
 import { LitElement, html, css } from 'lit';
 import './documento-admicion.js';
-import './loguin.js'; // 👈 para poder renderizar el login
+import './index.js'; // 👈 para poder renderizar el login
 import styles from './main-styles.js';
 class Main extends LitElement {
   static properties = {
