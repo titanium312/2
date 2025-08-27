@@ -3,11 +3,4 @@
     { "source": "/api/(.*)", "destination": "/api" },
     { "source": "/(.*)", "destination": "/public/$1" }
   ]
-  ,"builds": [
-    {
-      "src": "public/index.html",
-      "use": "@vercel/static-build",
-      "config": { "distDir": "public" }
-    }
-  ]
 }
